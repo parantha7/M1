@@ -11,7 +11,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 
 ## PROGRAM:
 
-
+```
 #include <stdio.h>
 
 int main() {
@@ -25,7 +25,7 @@ int main() {
     return 0;
     
 }
-
+```
 ## OUTPUT:
 ![Screenshot 2025-04-26 204736](https://github.com/user-attachments/assets/2ec04f8a-41a9-4668-88f4-e5212276021b)
 
