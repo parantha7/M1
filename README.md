@@ -104,7 +104,7 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
-
+```
 #include <stdio.h>
 int main()
 {
@@ -118,14 +118,6 @@ int main()
 ## OUTPUT:
 
 ![Screenshot 2025-04-26 205655](https://github.com/user-attachments/assets/6fb50d2e-375b-428d-8566-b79441392b0a)
-
-
-
-
-
-
-
-
 
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
@@ -164,16 +156,6 @@ if (num == 1) {
 ## OUTPUT:
 
 ![Screenshot 2025-04-26 210416](https://github.com/user-attachments/assets/fdab0d4d-7a25-4184-9c32-ca6308fefaec)
-
-
-
-
-
-
-
-
-
-	
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
